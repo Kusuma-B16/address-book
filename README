@@ -1,0 +1,13 @@
+# Address Book Application
+
+## Features
+- Add contacts
+- Edit contacts
+- Delete contacts
+- Search contacts
+- File storage
+
+## Technologies
+- C Programming
+- File Handling
+- Dynamic Memory Allocation
